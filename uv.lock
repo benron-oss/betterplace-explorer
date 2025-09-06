@@ -1,0 +1,8 @@
+version = 1
+revision = 1
+requires-python = ">=3.13"
+
+[[package]]
+name = "betterplace-org-explorer-0-03"
+version = "0.1.0"
+source = { virtual = "." }

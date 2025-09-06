@@ -1,0 +1,5 @@
+{
+  "name": "betterplace.org explorer 0.03",
+  "description": "An internal tool for the betterplace.org team to quickly find Organisations, Projects, and Fundraising Events based on user information like name or ID.",
+  "requestFramePermissions": []
+}
